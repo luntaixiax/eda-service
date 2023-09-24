@@ -3,6 +3,3 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.html
-CommonTools/*
-ModelingTools/*
-ProviderTools/*
