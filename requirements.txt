@@ -1,0 +1,2 @@
+luntaiDs==1.0.6
+streamlit==1.21.0
